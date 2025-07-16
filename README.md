@@ -1,6 +1,6 @@
 # ViKey: Secure Door Access with Passive Light-Based Optical Tags
-
 **ViKey** is a low-cost, passive authentication system for door access control using visible light backscatter. It employs 3D position-dependent optical patterns created by layered transparent tapes and polarizing films. These patterns are invisible to the human eye and captured by a polarized camera, enabling secure, contactless access without biometrics or RF signals.
+
 ---
 
 ## Repository Structure
